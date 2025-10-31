@@ -4,7 +4,7 @@ const app = express();
 app.use(express.json());
 
 app.get('/', (req, res) => {
-    res.send('Welcome to NFT Cultural - Version 1.1');
+    res.send('Welcome to NFT Cultural - Version 1.2');
 });
 
 const PORT = process.env.PORT || 5000;
