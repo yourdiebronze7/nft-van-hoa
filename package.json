@@ -1,7 +1,7 @@
 {
   "name": "nft-van-hoa",
   "version": "1.0.0",
-  "description": "Dự án NFT Văn Hoá",
+  "description": "NFT project focused on cultural heritage",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
